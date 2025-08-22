@@ -71,7 +71,7 @@ The project uses the publicly available Instacart dataset which includes:
 
 ## Star Schema
 
-![Star Schema](Instacart_Star\ Schema.jpg)
+![Star Schema](Instacart_Star_Schema.jpg)
 
 ---
 
